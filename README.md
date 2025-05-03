@@ -1,6 +1,3 @@
-Here’s a full README.md that you can use for your application:
-
----
 
 # FastHTML with Auth0 Example
 
